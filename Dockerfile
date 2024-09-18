@@ -1,3 +1,6 @@
+THIS IS FORKED BUT NOT REVIEWED
+DO NOT USE UNTIL CHECKING SCRIPTS!
+
 FROM python:3.9
 
 # Install devpi and dependencies
