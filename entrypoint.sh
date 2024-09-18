@@ -1,3 +1,7 @@
+THIS IS FORKED BUT NOT REVIEWED
+DO NOT USE UNTIL CHECKING SCRIPTS!
+
+
 #!/bin/bash
 set -euo pipefail
 IFS=$'\n\t'
