@@ -1,3 +1,6 @@
+# THIS IS FORKED BUT NOT REVIEWED
+# DO NOT USE UNTIL CHECKING SCRIPTS!
+
 Docker image for devpi
 ======================
 A ready to use Docker image for [devpi](http://doc.devpi.net/latest/). It includes
